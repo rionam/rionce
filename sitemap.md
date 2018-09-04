@@ -1,0 +1,6 @@
+*   [Home](index.md)
+*   [Developers](/developers/index.md)
+    *    [Getting started](getstarted.md)	
+*   [Users](/users/index.md)
+    *    [Getting started](getstarted.md)		
+*   [Contribute](community.md)
